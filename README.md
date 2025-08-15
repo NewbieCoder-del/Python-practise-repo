@@ -2,7 +2,7 @@
 Practice code from following Code with harry’s Python tutorials. Contains exercises, notes, and small projects from my learning journey.
 # Python Practice
 
-Practice code from following [YouTuber Name]’s Python tutorials.  
+Practice code from following Code with Harry's Python tutorials.  
 Contains exercises, notes, and small projects from my learning journey.
 
 ## Contents
