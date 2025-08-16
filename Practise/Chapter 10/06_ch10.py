@@ -1,3 +1,5 @@
+#changing the self parameter inside a class to something else (say 'hari' .Try changing self to 'slf' or 'harry' and see the effects
+
 from random import randint
 
 class Train:
@@ -19,5 +21,6 @@ t = Train(12399)
 t.book("Raipur", "Delhi")
 t.getStatus()
 t.getFare("Raipur", "Delhi")
+
 
 
